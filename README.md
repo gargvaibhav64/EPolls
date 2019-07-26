@@ -1,7 +1,7 @@
 # EPolls
 # Idea for codefundo++
 
-We are planning to build a partial online voting platform for elections in India. Microsoft Azure Blockchain service and Aadhar authentication will be used to make the process secure at each step.
+We are planning to build a completely online voting platform for elections in India. Microsoft Azure Blockchain service and Aadhar authentication will be used to make the process secure at each step.
 
 There will be following two types of facilities on the platform:
 
@@ -13,11 +13,11 @@ TYPE 1: Vote From home
           ▪ Overseas on election day: The voter needs to provide a scanned copy of visa/passport to prove that they will be o overseas on the election day.
           ▪ Other: If any other reason, then also the voter has to give proper proofs as to why he/she won’t be able to vote at the booth.  
     • The EC will verify the reason with proofs and display the status of the application (Accepted/Rejected) with reason.
-    • If the EC accepts the application, then on polling day, an email will be sent on registered ID which contains a unique ‘Unique Vote Key’ and the 'Time Slot', which will enable the voter to vote online. The Unique Vote Key will not be active outside the time slot.
+    • If the EC accepts the application, the voter will be notified of the time slot he/she has to vote in. Also, on polling day, an email will be sent on registered ID which contains a ‘Unique Vote Key’ which will enable the voter to vote online. The Unique Vote Key will not be active outside the time slot.
     • The voter must log in to the portal and then use the Vote Key to cast their vote, which will count in their constituency of residence.
     
 TYPE 2: Vote From Booth
-
+ 
     • Similar to the current system, but the portal will be used on polling booths instead of EVMs.
     • The EC officials will provide the 'Unique Vote Key' on the spot to the user after verifying his/her Elector's Photo ldentity Card (EPIC).
     • The vote key, in this case, ensures that no one is able to vote from home as type-2. 
