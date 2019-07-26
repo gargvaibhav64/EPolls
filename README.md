@@ -29,6 +29,6 @@ TYPE 2: Vote From Booth
     
     • The vote key, in this case, ensures that no one is able to vote from home as type-2. 
     
-The datasets available at https://data.gov.in/ will be used for this project. Sample Voter IDs will be created for demonstration. Later on, collaboration with Election Commission will be done to provide actual database of Voters.
+The datasets available at https://data.gov.in/ will be used for this project. Sample Voter IDs and Candidates will be created for demonstration. Later on, collaboration with Election Commission will be done which will provide actual database of Voters and Candidates.
 
 The various technologies used will be Azure Blockchain Service for securing each step in the process, Azure App Service for deployment of the website and Github for Version Control.
