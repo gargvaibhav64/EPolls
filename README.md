@@ -6,6 +6,7 @@ We are planning to build a partial online voting platform for elections in India
 There will be following two types of facilities on the platform:
 
 TYPE 1: Vote From home	
+
     • Register on the website using Voter ID. Fill in the necessary details.
     • Apply for online voting on the portal. While applying, the user needs to submit the reason for being unable to vote at the booth.         Possible reasons include-
           ▪ Disabled/Physically Unable to go to the booth: Proper medical certificates need to be attached.
@@ -16,6 +17,7 @@ TYPE 1: Vote From home
     • The voter must log in to the portal and then use the Vote Key to cast their vote, which will count in their constituency of residence.
     
 TYPE 2: Vote From Booth
+
     • Similar to the current system, but the portal will be used on polling booths instead of EVMs.
     • The EC officials will provide the 'Unique Vote Key' on the spot to the user after verifying his/her Elector's Photo ldentity Card (EPIC).
     • The vote key, in this case, ensures that no one is able to vote from home as type-2. 
